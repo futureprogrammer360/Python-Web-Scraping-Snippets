@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:r} = requests.delete(${2:url})
+]]></content>
+    <tabTrigger>delete</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests.delete</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from requests_html import AsyncHTMLSession
+]]></content>
+    <tabTrigger>iAsyncHTMLSession</tabTrigger>
+    <scope>source.python</scope>
+    <description>from requests_html import AsyncHTMLSession</description>
+</snippet>

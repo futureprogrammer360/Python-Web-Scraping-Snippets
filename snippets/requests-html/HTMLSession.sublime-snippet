@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:session} = HTMLSession()
+]]></content>
+    <tabTrigger>HTMLSession</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests_html.HTMLSession</description>
+</snippet>

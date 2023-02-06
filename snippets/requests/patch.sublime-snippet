@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:r} = requests.patch(${2:url}, data=${3:data})
+]]></content>
+    <tabTrigger>patch</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests.patch</description>
+</snippet>

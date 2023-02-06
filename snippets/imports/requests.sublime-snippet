@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import requests
+]]></content>
+    <tabTrigger>irequests</tabTrigger>
+    <scope>source.python</scope>
+    <description>import requests</description>
+</snippet>

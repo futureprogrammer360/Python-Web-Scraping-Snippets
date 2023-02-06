@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:r} = requests.head(${2:url})
+]]></content>
+    <tabTrigger>head</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests.head</description>
+</snippet>

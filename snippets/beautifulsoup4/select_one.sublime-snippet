@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:soup}.select_one($0)
+]]></content>
+    <tabTrigger>select_one</tabTrigger>
+    <scope>source.python</scope>
+    <description>bs4.BeautifulSoup.select_one</description>
+</snippet>

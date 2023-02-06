@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:soup}.prettify($0)
+]]></content>
+    <tabTrigger>prettify</tabTrigger>
+    <scope>source.python</scope>
+    <description>bs4.BeautifulSoup.prettify</description>
+</snippet>

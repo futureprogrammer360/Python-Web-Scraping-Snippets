@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:r} = requests.post(${2:url}, data=${3:data})
+]]></content>
+    <tabTrigger>post</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests.post</description>
+</snippet>

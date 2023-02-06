@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from requests_html import HTMLSession
+]]></content>
+    <tabTrigger>iHTMLSession</tabTrigger>
+    <scope>source.python</scope>
+    <description>from requests_html import HTMLSession</description>
+</snippet>

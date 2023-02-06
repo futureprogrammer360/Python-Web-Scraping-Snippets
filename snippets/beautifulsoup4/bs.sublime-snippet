@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:soup} = BeautifulSoup(${2:response.content}, ${3:"html.parser"})
+]]></content>
+    <tabTrigger>bs</tabTrigger>
+    <scope>source.python</scope>
+    <description>bs4.BeautifulSoup</description>
+</snippet>

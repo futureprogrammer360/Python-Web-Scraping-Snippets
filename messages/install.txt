@@ -1,0 +1,9 @@
+Hello fellow web scraping lover!
+
+Thank you for installing the Python Web Scraping Snippets package. This is a collection of useful snippets for web scraping in Python.
+
+To see the snippets available, check out the README.md file via the `Python Web Scraping Snippets: Open Readme` command in command palette.
+
+Enjoy!
+
+GitHub homepage: https://github.com/futureprogrammer360/Python%20Web%20Scraping%20Snippets

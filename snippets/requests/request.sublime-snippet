@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:r} = requests.request(${2:method}, ${3:url})
+]]></content>
+    <tabTrigger>request</tabTrigger>
+    <scope>source.python</scope>
+    <description>requests.request</description>
+</snippet>

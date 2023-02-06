@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "Python Web Scraping Snippets: Open Readme",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/Python Web Scraping Snippets/README.md"
+        }
+    }
+]

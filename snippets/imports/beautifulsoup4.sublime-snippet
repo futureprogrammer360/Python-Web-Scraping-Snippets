@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from bs4 import BeautifulSoup
+]]></content>
+    <tabTrigger>ibs</tabTrigger>
+    <scope>source.python</scope>
+    <description>from bs4 import BeautifulSoup</description>
+</snippet>
